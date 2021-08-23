@@ -4,10 +4,6 @@ import models.Universo
 import javax.inject._
 import play.api._
 import play.api.mvc._
-//import scala.io.Source
-import java.io.FileWriter
-import java.io.File
-
 import java.nio.file.Files
 import java.nio.file.Paths
 import java.nio.file.StandardOpenOption
